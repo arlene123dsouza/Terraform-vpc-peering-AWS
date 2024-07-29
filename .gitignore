@@ -1,0 +1,5 @@
+vpc-peering/.terraform.lock.hcl
+vpc-peering/.terraform/
+vpc-peering/terraform.tfstate
+vpc-peering/terraform.tfstate.backup
+vpc-peering/terraform.tfvars
